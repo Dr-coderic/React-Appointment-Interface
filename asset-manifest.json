@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Appointment-Interface/static/css/main.9951bc92.css",
+    "main.js": "/React-Appointment-Interface/static/js/main.c3313d5f.js",
+    "index.html": "/React-Appointment-Interface/index.html",
+    "main.9951bc92.css.map": "/React-Appointment-Interface/static/css/main.9951bc92.css.map",
+    "main.c3313d5f.js.map": "/React-Appointment-Interface/static/js/main.c3313d5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9951bc92.css",
+    "static/js/main.c3313d5f.js"
+  ]
+}
