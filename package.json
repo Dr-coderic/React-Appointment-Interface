@@ -11,12 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
+    "url": ""
   },
-  "author": "Pranay Gupta",
-  "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
-  },
+  "author": "Vaibhav Arya",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
