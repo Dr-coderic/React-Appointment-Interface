@@ -13,7 +13,7 @@
     "type": "git",
     "url": ""
   },
-  "author": "Vaibhav Arya",
+  "author": "Vaibhav - Arya",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
